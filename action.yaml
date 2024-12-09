@@ -1,5 +1,5 @@
-name: "Docker Stack Deploy"
-description: "Deploy a Docker Stack"
+name: "Docker Stack Deploy with image pulling"
+description: "Docker Stack Deploy with image pulling"
 author: "Shane"
 branding:
   icon: "layers"
